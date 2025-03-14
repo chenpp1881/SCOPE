@@ -9,7 +9,6 @@ SCOPE: Selection and Context-aware Optimized Prediction Engine for Code Classifi
 - pytorch 1.13.1
 
 # Datasets
-## Datasets for ESC and VSC
 Our proposed method is empirically evaluated on seven benchmark datasets. I have summarized all the datasets at: [Dataset](https://zenodo.org/records/14017657)
 
 
